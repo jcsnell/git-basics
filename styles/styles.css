@@ -23,8 +23,13 @@ body {
 }
 
 #wrapper {
+<<<<<<< HEAD
 	max-width: 1300px;
 	width: 100%;
+=======
+	max-width: 1350px;
+	width: 98%;
+>>>>>>> bugfix
 	background: #ffffff;
 	margin: 0 auto;
 
